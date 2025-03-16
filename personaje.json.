@@ -1,46 +1,427 @@
 {
-  "characters": [
+  "personajes": [
     {
-      "name": "Ryoma Echizen",
-      "team": "Seigaku",
-      "age": 12,
-      "famous_technique": "Twist Serve",
-      "height_cm": 151
+      "nombre": "Ryoma Echizen",
+      "equipo": "Seishun Gakuen (Seigaku)",
+      "altura": "151 cm",
+      "peso": "46 kg",
+      "tecnica_famosa": "Twist Serve",
+      "imagen": "https://example.com/ryoma.jpg",
+      "tipo_juego": "All-rounder"
     },
     {
-      "name": "Tezuka Kunimitsu",
-      "team": "Seigaku",
-      "age": 15,
-      "famous_technique": "Tezuka Zone",
-      "height_cm": 179
+      "nombre": "Kunimitsu Tezuka",
+      "equipo": "Seishun Gakuen (Seigaku)",
+      "altura": "179 cm",
+      "peso": "58 kg",
+      "tecnica_famosa": "Tezuka Zone",
+      "imagen": "https://example.com/tezuka.jpg",
+      "tipo_juego": "Controlador"
     },
     {
-      "name": "Fuji Shusuke",
-      "team": "Seigaku",
-      "age": 15,
-      "famous_technique": "Higuma Otoshi",
-      "height_cm": 167
+      "nombre": "Shuusuke Fuji",
+      "equipo": "Seishun Gakuen (Seigaku)",
+      "altura": "167 cm",
+      "peso": "53 kg",
+      "tecnica_famosa": "Tsubame Gaeshi",
+      "imagen": "https://example.com/fuji.jpg",
+      "tipo_juego": "Contraataque"
     },
     {
-      "name": "Atobe Keigo",
-      "team": "Hyotei Academy",
-      "age": 15,
-      "famous_technique": "Rondo Towards Destruction",
-      "height_cm": 175
+      "nombre": "Sadaharu Inui",
+      "equipo": "Seishun Gakuen (Seigaku)",
+      "altura": "188 cm",
+      "peso": "82 kg",
+      "tecnica_famosa": "Data Tennis",
+      "imagen": "https://example.com/inui.jpg",
+      "tipo_juego": "Estratégico"
     },
     {
-      "name": "Sanada Genichiro",
-      "team": "Rikkai Dai",
-      "age": 15,
-      "famous_technique": "FuuRinKaZan",
-      "height_cm": 180
+      "nombre": "Eiji Kikumaru",
+      "equipo": "Seishun Gakuen (Seigaku)",
+      "altura": "171 cm",
+      "peso": "52 kg",
+      "tecnica_famosa": "Acrobatic Play",
+      "imagen": "https://example.com/kikumaru.jpg",
+      "tipo_juego": "Velocidad"
     },
     {
-      "name": "Yukimura Seiichi",
-      "team": "Rikkai Dai",
-      "age": 15,
-      "famous_technique": "Yips Induction",
-      "height_cm": 175
+      "nombre": "Takashi Kawamura",
+      "equipo": "Seishun Gakuen (Seigaku)",
+      "altura": "180 cm",
+      "peso": "67 kg",
+      "tecnica_famosa": "Burning Tennis",
+      "imagen": "https://example.com/kawamura.jpg",
+      "tipo_juego": "Potencia"
+    },
+    {
+      "nombre": "Syuichiro Oishi",
+      "equipo": "Seishun Gakuen (Seigaku)",
+      "altura": "175 cm",
+      "peso": "55 kg",
+      "tecnica_famosa": "Moon Volley",
+      "imagen": "https://example.com/oishi.jpg",
+      "tipo_juego": "Dobles (especialista)"
+    },
+    {
+      "nombre": "Kaoru Kaidoh",
+      "equipo": "Seishun Gakuen (Seigaku)",
+      "altura": "170 cm",
+      "peso": "54 kg",
+      "tecnica_famosa": "Boomerang Snake",
+      "imagen": "https://example.com/kaidoh.jpg",
+      "tipo_juego": "Velocidad y resistencia"
+    },
+    {
+      "nombre": "Takeshi Momoshiro",
+      "equipo": "Seishun Gakuen (Seigaku)",
+      "altura": "170 cm",
+      "peso": "58 kg",
+      "tecnica_famosa": "Dunk Smash",
+      "imagen": "https://example.com/momoshiro.jpg",
+      "tipo_juego": "Potencia"
+    },
+    {
+      "nombre": "Atobe Keigo",
+      "equipo": "Hyotei Academy",
+      "altura": "175 cm",
+      "peso": "62 kg",
+      "tecnica_famosa": "World of Ice",
+      "imagen": "https://example.com/atobe.jpg",
+      "tipo_juego": "Controlador"
+    },
+    {
+      "nombre": "Oshitari Yuushi",
+      "equipo": "Hyotei Academy",
+      "altura": "178 cm",
+      "peso": "64 kg",
+      "tecnica_famosa": "Illusion",
+      "imagen": "https://example.com/oshitari.jpg",
+      "tipo_juego": "Estratégico"
+    },
+    {
+      "nombre": "Mukahi Gakuto",
+      "equipo": "Hyotei Academy",
+      "altura": "160 cm",
+      "peso": "50 kg",
+      "tecnica_famosa": "Tightrope Walking",
+      "imagen": "https://example.com/gakuto.jpg",
+      "tipo_juego": "Acrobático"
+    },
+    {
+      "nombre": "Kabaji Munehiro",
+      "equipo": "Hyotei Academy",
+      "altura": "192 cm",
+      "peso": "85 kg",
+      "tecnica_famosa": "Copy",
+      "imagen": "https://example.com/kabaji.jpg",
+      "tipo_juego": "Imitación"
+    },
+    {
+      "nombre": "Sanada Genichirou",
+      "equipo": "Rikkaidai Fuzoku",
+      "altura": "180 cm",
+      "peso": "68 kg",
+      "tecnica_famosa": "Rai (Thunder)",
+      "imagen": "https://example.com/sanada.jpg",
+      "tipo_juego": "Potencia y control"
+    },
+    {
+      "nombre": "Yukimura Seiichi",
+      "equipo": "Rikkaidai Fuzoku",
+      "altura": "175 cm",
+      "peso": "61 kg",
+      "tecnica_famosa": "Yips",
+      "imagen": "https://example.com/yukimura.jpg",
+      "tipo_juego": "Control mental"
+    },
+    {
+      "nombre": "Kirihara Akaya",
+      "equipo": "Rikkaidai Fuzoku",
+      "altura": "168 cm",
+      "peso": "57 kg",
+      "tecnica_famosa": "Devil Mode",
+      "imagen": "https://example.com/kirihara.jpg",
+      "tipo_juego": "Agresivo"
+    },
+    {
+      "nombre": "Niou Masaharu",
+      "equipo": "Rikkaidai Fuzoku",
+      "altura": "175 cm",
+      "peso": "62 kg",
+      "tecnica_famosa": "Illusion",
+      "imagen": "https://example.com/niou.jpg",
+      "tipo_juego": "Engaño"
+    },
+    {
+      "nombre": "Yagyuu Hiroshi",
+      "equipo": "Rikkaidai Fuzoku",
+      "altura": "178 cm",
+      "peso": "64 kg",
+      "tecnica_famosa": "Laser Beam",
+      "imagen": "https://example.com/yagyuu.jpg",
+      "tipo_juego": "Precisión"
+    },
+    {
+      "nombre": "Shiraishi Kuranosuke",
+      "equipo": "Shitenhouji",
+      "altura": "179 cm",
+      "peso": "67 kg",
+      "tecnica_famosa": "Perfect Tennis",
+      "imagen": "https://example.com/shiraishi.jpg",
+      "tipo_juego": "All-rounder"
+    },
+    {
+      "nombre": "Kintarou Tooyama",
+      "equipo": "Shitenhouji",
+      "altura": "150 cm",
+      "peso": "45 kg",
+      "tecnica_famosa": "Super Shukuchihou",
+      "imagen": "https://example.com/kintarou.jpg",
+      "tipo_juego": "Velocidad y potencia"
+    },
+    {
+      "nombre": "Chitose Senri",
+      "equipo": "Shitenhouji",
+      "altura": "180 cm",
+      "peso": "65 kg",
+      "tecnica_famosa": "Hoshi Hanabi",
+      "imagen": "https://example.com/chitose.jpg",
+      "tipo_juego": "Estratégico"
+    },
+    {
+      "nombre": "Tachibana Kippei",
+      "equipo": "Fudomine",
+      "altura": "182 cm",
+      "peso": "72 kg",
+      "tecnica_famosa": "Abare Dama",
+      "imagen": "https://example.com/tachibana.jpg",
+      "tipo_juego": "Potencia"
+    },
+    {
+      "nombre": "Ibu Shinji",
+      "equipo": "Fudomine",
+      "altura": "165 cm",
+      "peso": "55 kg",
+      "tecnica_famosa": "Quick Serve",
+      "imagen": "https://example.com/ibu.jpg",
+      "tipo_juego": "Velocidad"
+    },
+    {
+      "nombre": "Akutsu Jin",
+      "equipo": "Yamabuki",
+      "altura": "185 cm",
+      "peso": "75 kg",
+      "tecnica_famosa": "Wild Tennis",
+      "imagen": "https://example.com/akutsu.jpg",
+      "tipo_juego": "Agresivo"
+    },
+    {
+      "nombre": "Minami Kentarou",
+      "equipo": "Yamabuki",
+      "altura": "170 cm",
+      "peso": "60 kg",
+      "tecnica_famosa": "Data Tennis",
+      "imagen": "https://example.com/minami.jpg",
+      "tipo_juego": "Estratégico"
+    },
+    {
+      "nombre": "Hiyoshi Wakashi",
+      "equipo": "Hyotei Academy",
+      "altura": "172 cm",
+      "peso": "56 kg",
+      "tecnica_famosa": "Bishop Step",
+      "imagen": "https://example.com/hiyoshi.jpg",
+      "tipo_juego": "Velocidad"
+    },
+    {
+      "nombre": "Shishido Ryou",
+      "equipo": "Hyotei Academy",
+      "altura": "174 cm",
+      "peso": "60 kg",
+      "tecnica_famosa": "Wild Ball",
+      "imagen": "https://example.com/shishido.jpg",
+      "tipo_juego": "Agresivo"
+    },
+    {
+      "nombre": "Jirou Akutagawa",
+      "equipo": "Hyotei Academy",
+      "altura": "160 cm",
+      "peso": "52 kg",
+      "tecnica_famosa": "Sleeping Mode",
+      "imagen": "https://example.com/jirou.jpg",
+      "tipo_juego": "Impredecible"
+    },
+    {
+      "nombre": "Zaizen Hikaru",
+      "equipo": "Higa Chuu",
+      "altura": "168 cm",
+      "peso": "58 kg",
+      "tecnica_famosa": "Hadoukyuu",
+      "imagen": "https://example.com/zaizen.jpg",
+      "tipo_juego": "Potencia"
+    },
+    {
+      "nombre": "Kite Eishirou",
+      "equipo": "Higa Chuu",
+      "altura": "176 cm",
+      "peso": "63 kg",
+      "tecnica_famosa": "Hadoukyuu",
+      "imagen": "https://example.com/kite.jpg",
+      "tipo_juego": "Potencia"
+    },
+    {
+      "nombre": "Kurobane Harukaze",
+      "equipo": "Higa Chuu",
+      "altura": "180 cm",
+      "peso": "70 kg",
+      "tecnica_famosa": "Hadoukyuu",
+      "imagen": "https://example.com/kurobane.jpg",
+      "tipo_juego": "Potencia"
+    },
+    {
+      "nombre": "Kai Yuujirou",
+      "equipo": "Higa Chuu",
+      "altura": "178 cm",
+      "peso": "65 kg",
+      "tecnica_famosa": "Hadoukyuu",
+      "imagen": "https://example.com/kai.jpg",
+      "tipo_juego": "Potencia"
+    },
+    {
+      "nombre": "Marui Bunta",
+      "equipo": "Rikkaidai Fuzoku",
+      "altura": "164 cm",
+      "peso": "56 kg",
+      "tecnica_famosa": "Time Difference",
+      "imagen": "https://example.com/marui.jpg",
+      "tipo_juego": "Estratégico"
+    },
+    {
+      "nombre": "Jackal Kuwahara",
+      "equipo": "Rikkaidai Fuzoku",
+      "altura": "185 cm",
+      "peso": "75 kg",
+      "tecnica_famosa": "Laser Beam",
+      "imagen": "https://example.com/jackal.jpg",
+      "tipo_juego": "Precisión"
+    },
+    {
+      "nombre": "Renji Yanagi",
+      "equipo": "Rikkaidai Fuzoku",
+      "altura": "181 cm",
+      "peso": "67 kg",
+      "tecnica_famosa": "Data Tennis",
+      "imagen": "https://example.com/yanagi.jpg",
+      "tipo_juego": "Estratégico"
+    },
+    {
+      "nombre": "Aoi Kentarou",
+      "equipo": "Rokkaku",
+      "altura": "175 cm",
+      "peso": "62 kg",
+      "tecnica_famosa": "Boomerang Snake",
+      "imagen": "https://example.com/aoi.jpg",
+      "tipo_juego": "Velocidad"
+    },
+    {
+      "nombre": "Saeki Kojirou",
+      "equipo": "Rokkaku",
+      "altura": "178 cm",
+      "peso": "65 kg",
+      "tecnica_famosa": "Saeki Zone",
+      "imagen": "https://example.com/saeki.jpg",
+      "tipo_juego": "Controlador"
+    },
+    {
+      "nombre": "Amane Hikaru",
+      "equipo": "Rokkaku",
+      "altura": "180 cm",
+      "peso": "68 kg",
+      "tecnica_famosa": "Amane Zone",
+      "imagen": "https://example.com/amane.jpg",
+      "tipo_juego": "Controlador"
+    },
+    {
+      "nombre": "Byoudouin Houou",
+      "equipo": "U-17 Japan (New Prince of Tennis)",
+      "altura": "187 cm",
+      "peso": "78 kg",
+      "tecnica_famosa": "Muga no Kyouchi",
+      "imagen": "https://example.com/byoudouin.jpg",
+      "tipo_juego": "All-rounder"
+    },
+    {
+      "nombre": "Tokugawa Kazuya",
+      "equipo": "U-17 Japan (New Prince of Tennis)",
+      "altura": "185 cm",
+      "peso": "75 kg",
+      "tecnica_famosa": "Black Hole",
+      "imagen": "https://example.com/tokugawa.jpg",
+      "tipo_juego": "Potencia"
+    },
+    {
+      "nombre": "Oni Juujirou",
+      "equipo": "U-17 Japan (New Prince of Tennis)",
+      "altura": "190 cm",
+      "peso": "85 kg",
+      "tecnica_famosa": "Demon Mode",
+      "imagen": "https://example.com/oni.jpg",
+      "tipo_juego": "Agresivo"
+    },
+    {
+      "nombre": "Tanegashima Shuuji",
+      "equipo": "U-17 Japan (New Prince of Tennis)",
+      "altura": "178 cm",
+      "peso": "68 kg",
+      "tecnica_famosa": "Data Tennis",
+      "imagen": "https://example.com/tanegashima.jpg",
+      "tipo_juego": "Estratégico"
+    },
+    {
+      "nombre": "Irie Kanata",
+      "equipo": "U-17 Japan (New Prince of Tennis)",
+      "altura": "175 cm",
+      "peso": "62 kg",
+      "tecnica_famosa": "Illusion",
+      "imagen": "https://example.com/irie.jpg",
+      "tipo_juego": "Engaño"
+    },
+    {
+      "nombre": "Ohmagari Ryuuji",
+      "equipo": "U-17 Japan (New Prince of Tennis)",
+      "altura": "180 cm",
+      "peso": "70 kg",
+      "tecnica_famosa": "Power Tennis",
+      "imagen": "https://example.com/ohmagari.jpg",
+      "tipo_juego": "Potencia"
+    },
+    {
+      "nombre": "Duke Watanabe",
+      "equipo": "U-17 Japan (New Prince of Tennis)",
+      "altura": "192 cm",
+      "peso": "88 kg",
+      "tecnica_famosa": "Hadoukyuu",
+      "imagen": "https://example.com/duke.jpg",
+      "tipo_juego": "Potencia"
+    },
+    {
+      "nombre": "Kimijima Ikuto",
+      "equipo": "U-17 Japan (New Prince of Tennis)",
+      "altura": "178 cm",
+      "peso": "65 kg",
+      "tecnica_famosa": "Data Tennis",
+      "imagen": "https://example.com/kimijima.jpg",
+      "tipo_juego": "Estratégico"
+    },
+    {
+      "nombre": "Mitsuya Akuto",
+      "equipo": "U-17 Japan (New Prince of Tennis)",
+      "altura": "182 cm",
+      "peso": "74 kg",
+      "tecnica_famosa": "Power Tennis",
+      "imagen": "https://example.com/mitsuya.jpg",
+      "tipo_juego": "Potencia"
     }
   ]
 }
