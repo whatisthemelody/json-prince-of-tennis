@@ -1,5 +1,4 @@
-{
-  "personajes": [
+ [
     {
       "nombre": "Ryoma Echizen",
       "equipo": "Seishun Gakuen (Seigaku)",
@@ -424,4 +423,4 @@
       "tipo_juego": "Potencia"
     }
   ]
-}
+
