@@ -145,11 +145,11 @@
     },
     {
         "nombre": "Dry Bones",
-        "equipo": "https://static.wikia.nocookie.net/hello-yoshi/images/a/a1/250px-MPSR_Dry_Bones.png/revision/latest/scale-to-width-down/1000?cb=20190228195242",
+        "equipo": "Reino Koopa",
         "altura": "100 cm",
         "peso": "15 kg",
         "tecnica": "Reconstrucción Ósea",
-        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/drybones.png?raw=true",
+        "imagen": "https://www.nicepng.com/png/detail/94-942485_dry-bones-from-mario-party-8-render-art.png",
         "PrimeraAparicion": "Super Mario Bros. 3 (1988)"
     },
     {
