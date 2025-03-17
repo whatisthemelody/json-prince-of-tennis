@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Mario",
-        "equipo": "Reino Champiñón",
+        "hogar": "Reino Champiñón",
         "altura": "155 cm",
         "peso": "64 kg",
         "tecnica": "Super Salto",
@@ -10,7 +10,7 @@
     },
     {
         "nombre": "Luigi",
-        "equipo": "Reino Champiñón",
+        "hogar": "Reino Champiñón",
         "altura": "175 cm",
         "peso": "60 kg",
         "tecnica": "Salto Flotante",
@@ -19,7 +19,7 @@
     },
     {
         "nombre": "Peach",
-        "equipo": "Reino Champiñón",
+        "hogar": "Reino Champiñón",
         "altura": "173 cm",
         "peso": "58 kg",
         "tecnica": "Flotar con Vestido",
@@ -28,7 +28,7 @@
     },
     {
         "nombre": "Bowser",
-        "equipo": "Reino Koopa",
+        "hogar": "Reino Koopa",
         "altura": "260 cm",
         "peso": "300 kg",
         "tecnica": "Aliento de Fuego",
@@ -37,7 +37,7 @@
     },
     {
         "nombre": "Yoshi",
-        "equipo": "Isla Yoshi",
+        "hogar": "Isla Yoshi",
         "altura": "160 cm",
         "peso": "59 kg",
         "tecnica": "Lengüetazo",
@@ -46,7 +46,7 @@
     },
     {
         "nombre": "Toad",
-        "equipo": "Reino Champiñón",
+        "hogar": "Reino Champiñón",
         "altura": "80 cm",
         "peso": "20 kg",
         "tecnica": "Carrera Rápida",
@@ -55,7 +55,7 @@
     },
     {
         "nombre": "Daisy",
-        "equipo": "Reino Sarasaland",
+        "hogar": "Reino Sarasaland",
         "altura": "170 cm",
         "peso": "55 kg",
         "tecnica": "Golpe de Flor",
@@ -64,7 +64,7 @@
     },
     {
         "nombre": "Wario",
-        "equipo": "WarioWare Inc.",
+        "hogar": "WarioWare Inc.",
         "altura": "155 cm",
         "peso": "140 kg",
         "tecnica": "Carga Pesada",
@@ -73,7 +73,7 @@
     },
     {
         "nombre": "Waluigi",
-        "equipo": "WarioWare Inc.",
+        "hogar": "WarioWare Inc.",
         "altura": "185 cm",
         "peso": "70 kg",
         "tecnica": "Golpe Engañoso",
@@ -82,7 +82,7 @@
     },
     {
         "nombre": "Donkey Kong",
-        "equipo": "Isla DK",
+        "hogar": "Isla DK",
         "altura": "230 cm",
         "peso": "200 kg",
         "tecnica": "Golpe de Barril",
@@ -91,7 +91,7 @@
     },
     {
         "nombre": "Diddy Kong",
-        "equipo": "Isla DK",
+        "hogar": "Isla DK",
         "altura": "100 cm",
         "peso": "35 kg",
         "tecnica": "Salto Acrobático",
@@ -100,7 +100,7 @@
     },
     {
         "nombre": "Rosalina",
-        "equipo": "Observatorio Cometa",
+        "hogar": "Observatorio Cometa",
         "altura": "180 cm",
         "peso": "57 kg",
         "tecnica": "Poder Estelar",
@@ -109,7 +109,7 @@
     },
     {
         "nombre": "Bowser Jr.",
-        "equipo": "Reino Koopa",
+        "hogar": "Reino Koopa",
         "altura": "120 cm",
         "peso": "40 kg",
         "tecnica": "Pincel Mágico",
@@ -118,7 +118,7 @@
     },
     {
         "nombre": "Toadette",
-        "equipo": "Reino Champiñón",
+        "hogar": "Reino Champiñón",
         "altura": "75 cm",
         "peso": "18 kg",
         "tecnica": "Carrera Veloz",
@@ -127,7 +127,7 @@
     },
     {
         "nombre": "Koopa Troopa",
-        "equipo": "Reino Koopa",
+        "hogar": "Reino Koopa",
         "altura": "90 cm",
         "peso": "25 kg",
         "tecnica": "Caparazón Giratorio",
@@ -136,7 +136,7 @@
     },
     {
         "nombre": "Boo",
-        "equipo": "Mansión Boo",
+        "hogar": "Mansión Boo",
         "altura": "120 cm",
         "peso": "10 kg",
         "tecnica": "Invisibilidad",
@@ -145,7 +145,7 @@
     },
     {
         "nombre": "Dry Bones",
-        "equipo": "Reino Koopa",
+        "hogar": "Reino Koopa",
         "altura": "100 cm",
         "peso": "15 kg",
         "tecnica": "Reconstrucción Ósea",
@@ -154,7 +154,7 @@
     },
     {
         "nombre": "Shy Guy",
-        "equipo": "Reino de los Champiñones",
+        "hogar": "Reino de los Champiñones",
         "altura": "110 cm",
         "peso": "30 kg",
         "tecnica": "Ataque Sorpresa",
@@ -163,7 +163,7 @@
     },
     {
         "nombre": "Birdo",
-        "equipo": "Reino de los Champiñones",
+        "hogar": "Reino de los Champiñones",
         "altura": "150 cm",
         "peso": "50 kg",
         "tecnica": "Huevo Lanzado",
@@ -172,7 +172,7 @@
     },
     {
         "nombre": "King Boo",
-        "equipo": "Mansión Boo",
+        "hogar": "Mansión Boo",
         "altura": "200 cm",
         "peso": "80 kg",
         "tecnica": "Rayo Fantasma",
@@ -181,7 +181,7 @@
     },
     {
         "nombre": "Baby Mario",
-        "equipo": "Reino Champiñón",
+        "hogar": "Reino Champiñón",
         "altura": "80 cm",
         "peso": "15 kg",
         "tecnica": "Mini Salto",
@@ -190,7 +190,7 @@
     },
     {
         "nombre": "Baby Luigi",
-        "equipo": "Reino Champiñón",
+        "hogar": "Reino Champiñón",
         "altura": "85 cm",
         "peso": "16 kg",
         "tecnica": "Mini Flotación",
@@ -199,7 +199,7 @@
     },
     {
         "nombre": "Baby Peach",
-        "equipo": "Reino Champiñón",
+        "hogar": "Reino Champiñón",
         "altura": "80 cm",
         "peso": "14 kg",
         "tecnica": "Mini Flotar con Vestido",
@@ -208,7 +208,7 @@
     },
     {
         "nombre": "Baby Daisy",
-        "equipo": "Reino Sarasaland",
+        "hogar": "Reino Sarasaland",
         "altura": "82 cm",
         "peso": "15 kg",
         "tecnica": "Mini Golpe de Flor",
@@ -217,7 +217,7 @@
     },
     {
         "nombre": "Petey Piraña",
-        "equipo": "Reino Koopa",
+        "hogar": "Reino Koopa",
         "altura": "250 cm",
         "peso": "150 kg",
         "tecnica": "Mordisco Devastador",
@@ -226,7 +226,7 @@
     },
     {
         "nombre": "Kamek",
-        "equipo": "Reino Koopa",
+        "hogar": "Reino Koopa",
         "altura": "180 cm",
         "peso": "70 kg",
         "tecnica": "Magia Oscura",
@@ -235,7 +235,7 @@
     },
     {
         "nombre": "Maestro Kinopo",
-        "equipo": "Reino Koopa",
+        "hogar": "Reino Koopa",
         "altura": "190 cm",
         "peso": "80 kg",
         "tecnica": "Golpe de Bastón",
@@ -244,7 +244,7 @@
     },
     {
         "nombre": "Metal Mario",
-        "equipo": "Reino Champiñón",
+        "hogar": "Reino Champiñón",
         "altura": "155 cm",
         "peso": "100 kg",
         "tecnica": "Cuerpo Metálico",
@@ -253,7 +253,7 @@
     },
     {
         "nombre": "Dixie Kong",
-        "equipo": "Isla DK",
+        "hogar": "Isla DK",
         "altura": "120 cm",
         "peso": "40 kg",
         "tecnica": "Giro de Cabello",
@@ -262,7 +262,7 @@
     },
     {
         "nombre": "Pauline",
-        "equipo": "Nueva Donk City",
+        "hogar": "Nueva Donk City",
         "altura": "170 cm",
         "peso": "60 kg",
         "tecnica": "Canto Inspirador",
