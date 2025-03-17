@@ -185,7 +185,7 @@
         "altura": "80 cm",
         "peso": "15 kg",
         "tecnica": "Mini Salto",
-        "imagen": "https://www.pngmart.com/files/13/Baby-Mario-Transparent-PNG.png",
+        "imagen": "https://w7.pngwing.com/pngs/3/714/png-transparent-super-mario-bros-mario-yoshi-luigi-baby-sitting-s-child-super-mario-bros-hand.png",
         "PrimeraAparicion": "Super Mario World 2: Yoshi's Island (1995)"
     },
     {
@@ -194,7 +194,7 @@
         "altura": "85 cm",
         "peso": "16 kg",
         "tecnica": "Mini Flotación",
-        "imagen": "https://www.pngmart.com/files/13/Baby-Luigi-Transparent-PNG.png",
+        "imagen": "https://w7.pngwing.com/pngs/1011/34/png-transparent-super-mario-world-2-yoshi-s-island-mario-kart-8-mario-luigi-partners-in-time-mario-super-sluggers-luigi-hand-nintendo-video-game.png",
         "PrimeraAparicion": "Super Mario World 2: Yoshi's Island (1995)"
     },
     {
@@ -203,7 +203,7 @@
         "altura": "80 cm",
         "peso": "14 kg",
         "tecnica": "Mini Flotar con Vestido",
-        "imagen": "https://www.pngmart.com/files/13/Baby-Peach-Transparent-PNG.png",
+        "imagen": "https://w7.pngwing.com/pngs/526/357/png-transparent-baby-princess-peach-mario-bros-mario-super-sluggers-mario-luigi-partners-in-time-princess-peach-baby-039-s-breath-nintendo-computer-wallpaper-video-game.png",
         "PrimeraAparicion": "Mario & Luigi: Partners in Time (2005)"
     },
     {
@@ -221,7 +221,51 @@
         "altura": "250 cm",
         "peso": "150 kg",
         "tecnica": "Mordisco Devastador",
-        "imagen": "https://www.pngmart.com/files/13/Petey-Piranha-Transparent-PNG.png",
+        "imagen": "https://w7.pngwing.com/pngs/316/520/png-transparent-super-mario-bros-mario-kart-double-dash-bowser-mario-bros-super-mario-bros-video-game-fictional-character.png",
         "PrimeraAparicion": "Super Mario Sunshine (2002)"
+    },
+    {
+        "nombre": "Kamek",
+        "equipo": "Reino Koopa",
+        "altura": "180 cm",
+        "peso": "70 kg",
+        "tecnica": "Magia Oscura",
+        "imagen": "https://w7.pngwing.com/pngs/979/298/png-transparent-super-mario-bros-bowser-luigi-super-mario-super-mario-bros-nintendo-vertebrate.png",
+        "PrimeraAparicion": "Super Mario World 2: Yoshi's Island (1995)"
+    },
+    {
+        "nombre": "Maestro Kinopo",
+        "equipo": "Reino Koopa",
+        "altura": "190 cm",
+        "peso": "80 kg",
+        "tecnica": "Golpe de Bastón",
+        "imagen": "https://e7.pngegg.com/pngimages/597/317/png-clipart-paper-mario-toad-princess-peach-mario-tennis-aces-baby-shark-heroes-video-game.png", 
+        "PrimeraAparicion": "Paper Mario: The Thousand-Year Door (2004)"
+    },
+    {
+        "nombre": "Metal Mario",
+        "equipo": "Reino Champiñón",
+        "altura": "155 cm",
+        "peso": "100 kg",
+        "tecnica": "Cuerpo Metálico",
+        "imagen": "https://www.pngkey.com/png/full/7-71639_metal-mario-super-mario-metal-mario.png",
+        "PrimeraAparicion": "Super Mario 64 (1996)"
+    },
+    {
+        "nombre": "Dixie Kong",
+        "equipo": "Isla DK",
+        "altura": "120 cm",
+        "peso": "40 kg",
+        "tecnica": "Giro de Cabello",
+        "imagen": "https://c0.klipartz.com/pngpicture/312/39/sticker-png-donkey-kong-country-3-dixie-kong-s-double-trouble-donkey-kong-country-2-diddy-s-kong-quest-donkey-kong-country-tropical-freeze-diddy-kong-racing-others-thumbnail.png",
+        "PrimeraAparicion": "Donkey Kong Country 2: Diddy's Kong Quest (1995)"
+    },
+    {
+        "nombre": "Pauline",
+        "equipo": "Nueva Donk City",
+        "altura": "170 cm",
+        "peso": "60 kg",
+        "tecnica": "Canto Inspirador",
+        "imagen": "https://www.pngmart.com/files/13/Pauline-PNG-Free-Download.png",
+        "PrimeraAparicion": "Donkey Kong (1981)"
     }
-]
