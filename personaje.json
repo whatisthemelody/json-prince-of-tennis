@@ -150,9 +150,8 @@
         "peso": "15 kg",
         "tecnica": "Reconstrucción Ósea",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/drybones.png?raw=true",
-        "estiloJ": "Resistencia"
+        "PrimeraAparicion": "Super Mario Bros. 3 (1988)"
     },
- 
     {
         "nombre": "Shy Guy",
         "equipo": "Reino de los Champiñones",
@@ -179,5 +178,50 @@
         "tecnica": "Rayo Fantasma",
         "imagen": "https://www.pngmart.com/files/13/Super-Mario-Bros-King-Boo-Transparent-PNG.png",
         "PrimeraAparicion": "Luigi's Mansion (2001)"
+    },
+    {
+        "nombre": "Baby Mario",
+        "equipo": "Reino Champiñón",
+        "altura": "80 cm",
+        "peso": "15 kg",
+        "tecnica": "Mini Salto",
+        "imagen": "https://www.pngmart.com/files/13/Baby-Mario-Transparent-PNG.png",
+        "PrimeraAparicion": "Super Mario World 2: Yoshi's Island (1995)"
+    },
+    {
+        "nombre": "Baby Luigi",
+        "equipo": "Reino Champiñón",
+        "altura": "85 cm",
+        "peso": "16 kg",
+        "tecnica": "Mini Flotación",
+        "imagen": "https://www.pngmart.com/files/13/Baby-Luigi-Transparent-PNG.png",
+        "PrimeraAparicion": "Super Mario World 2: Yoshi's Island (1995)"
+    },
+    {
+        "nombre": "Baby Peach",
+        "equipo": "Reino Champiñón",
+        "altura": "80 cm",
+        "peso": "14 kg",
+        "tecnica": "Mini Flotar con Vestido",
+        "imagen": "https://www.pngmart.com/files/13/Baby-Peach-Transparent-PNG.png",
+        "PrimeraAparicion": "Mario & Luigi: Partners in Time (2005)"
+    },
+    {
+        "nombre": "Baby Daisy",
+        "equipo": "Reino Sarasaland",
+        "altura": "82 cm",
+        "peso": "15 kg",
+        "tecnica": "Mini Golpe de Flor",
+        "imagen": "https://www.pngmart.com/files/13/Baby-Daisy-Transparent-PNG.png",
+        "PrimeraAparicion": "Mario Kart Wii (2008)"
+    },
+    {
+        "nombre": "Petey Piraña",
+        "equipo": "Reino Koopa",
+        "altura": "250 cm",
+        "peso": "150 kg",
+        "tecnica": "Mordisco Devastador",
+        "imagen": "https://www.pngmart.com/files/13/Petey-Piranha-Transparent-PNG.png",
+        "PrimeraAparicion": "Super Mario Sunshine (2002)"
     }
 ]
