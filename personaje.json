@@ -6,7 +6,7 @@
         "peso": "64 kg",
         "tecnica": "Super Salto",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/mario.png?raw=true",
-        "PrimeraAparicion": "Donkey Kong (1981)"
+        "Debut": "Donkey Kong (1981)"
     },
     {
         "nombre": "Luigi",
@@ -15,7 +15,7 @@
         "peso": "60 kg",
         "tecnica": "Salto Flotante",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/luigi.png?raw=true",
-        "PrimeraAparicion": "Mario Bros. (1983)"
+        "Debut": "Mario Bros. (1983)"
     },
     {
         "nombre": "Peach",
@@ -24,7 +24,7 @@
         "peso": "58 kg",
         "tecnica": "Flotar con Vestido",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/peach.png?raw=true",
-        "PrimeraAparicion": "Super Mario Bros. (1985)"
+        "Debut": "Super Mario Bros. (1985)"
     },
     {
         "nombre": "Bowser",
@@ -33,7 +33,7 @@
         "peso": "300 kg",
         "tecnica": "Aliento de Fuego",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/bowser.png?raw=true",
-        "PrimeraAparicion": "Super Mario Bros. (1985)"
+        "Debut": "Super Mario Bros. (1985)"
     },
     {
         "nombre": "Yoshi",
@@ -42,7 +42,7 @@
         "peso": "59 kg",
         "tecnica": "Lengüetazo",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/yoshi.png?raw=true",
-        "PrimeraAparicion": "Super Mario World (1990)"
+        "Debut": "Super Mario World (1990)"
     },
     {
         "nombre": "Toad",
@@ -51,7 +51,7 @@
         "peso": "20 kg",
         "tecnica": "Carrera Rápida",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/toad.png?raw=true",
-        "PrimeraAparicion": "Super Mario Bros. (1985)"
+        "Debut": "Super Mario Bros. (1985)"
     },
     {
         "nombre": "Daisy",
@@ -60,7 +60,7 @@
         "peso": "55 kg",
         "tecnica": "Golpe de Flor",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/daisy.png?raw=true",
-        "PrimeraAparicion": "Super Mario Land (1989)"
+        "Debut": "Super Mario Land (1989)"
     },
     {
         "nombre": "Wario",
@@ -69,7 +69,7 @@
         "peso": "140 kg",
         "tecnica": "Carga Pesada",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/wario.png?raw=true",
-        "PrimeraAparicion": "Super Mario Land 2: 6 Golden Coins (1992)"
+        "Debut": "Super Mario Land 2: 6 Golden Coins (1992)"
     },
     {
         "nombre": "Waluigi",
@@ -78,7 +78,7 @@
         "peso": "70 kg",
         "tecnica": "Golpe Engañoso",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/waluigi.png?raw=true",
-        "PrimeraAparicion": "Mario Tennis (2000)"
+        "Debut": "Mario Tennis (2000)"
     },
     {
         "nombre": "Donkey Kong",
@@ -87,7 +87,7 @@
         "peso": "200 kg",
         "tecnica": "Golpe de Barril",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/donkeykong.png?raw=true",
-        "PrimeraAparicion": "Donkey Kong (1981)"
+        "Debut": "Donkey Kong (1981)"
     },
     {
         "nombre": "Diddy Kong",
@@ -96,7 +96,7 @@
         "peso": "35 kg",
         "tecnica": "Salto Acrobático",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/diddy.png?raw=true",
-        "PrimeraAparicion": "Donkey Kong Country (1994)"
+        "Debut": "Donkey Kong Country (1994)"
     },
     {
         "nombre": "Rosalina",
@@ -105,7 +105,7 @@
         "peso": "57 kg",
         "tecnica": "Poder Estelar",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/rosalina.png?raw=true",
-        "PrimeraAparicion": "Super Mario Galaxy (2007)"
+        "Debut": "Super Mario Galaxy (2007)"
     },
     {
         "nombre": "Bowser Jr.",
@@ -114,7 +114,7 @@
         "peso": "40 kg",
         "tecnica": "Pincel Mágico",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/bowserjr.png?raw=true",
-        "PrimeraAparicion": "Super Mario Sunshine (2002)"
+        "Debut": "Super Mario Sunshine (2002)"
     },
     {
         "nombre": "Toadette",
@@ -123,7 +123,7 @@
         "peso": "18 kg",
         "tecnica": "Carrera Veloz",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/toadette.png?raw=true",
-        "PrimeraAparicion": "Mario Kart: Double Dash!! (2003)"
+        "Debut": "Mario Kart: Double Dash!! (2003)"
     },
     {
         "nombre": "Koopa Troopa",
@@ -132,7 +132,7 @@
         "peso": "25 kg",
         "tecnica": "Caparazón Giratorio",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/koopa.png?raw=true",
-        "PrimeraAparicion": "Super Mario Bros. (1985)"
+        "Debut": "Super Mario Bros. (1985)"
     },
     {
         "nombre": "Boo",
@@ -141,7 +141,7 @@
         "peso": "10 kg",
         "tecnica": "Invisibilidad",
         "imagen": "https://mario.nintendo.com/static/07969e5525c53ae6c17bd8c2661c459d/3d2f6/boo.png",
-        "PrimeraAparicion": "Super Mario Bros. 3 (1988)"
+        "Debut": "Super Mario Bros. 3 (1988)"
     },
     {
         "nombre": "Dry Bones",
@@ -150,7 +150,7 @@
         "peso": "15 kg",
         "tecnica": "Reconstrucción Ósea",
         "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e738c17-7f3c-422e-8225-f8c782b08626/degkuun-37eb2aef-69c4-4425-98a4-a7910bee43ce.png/v1/fill/w_894,h_894/lazy_bones_by_nibroc_rock_degkuun-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk5IiwicGF0aCI6IlwvZlwvMGU3MzhjMTctN2YzYy00MjJlLTgyMjUtZjhjNzgyYjA4NjI2XC9kZWdrdXVuLTM3ZWIyYWVmLTY5YzQtNDQyNS05OGE0LWE3OTEwYmVlNDNjZS5wbmciLCJ3aWR0aCI6Ijw9ODk5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.EVx9kUCLs8I-7ePgPAf1-HtRtI9z_pYCL_0Gj0fHB-M",
-        "PrimeraAparicion": "Super Mario Bros. 3 (1988)"
+        "Debut": "Super Mario Bros. 3 (1988)"
     },
     {
         "nombre": "Shy Guy",
@@ -159,7 +159,7 @@
         "peso": "30 kg",
         "tecnica": "Ataque Sorpresa",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/shyguy.png?raw=true",
-        "PrimeraAparicion": "Super Mario Bros. 2 (1988)"
+        "Debut": "Super Mario Bros. 2 (1988)"
     },
     {
         "nombre": "Birdo",
@@ -168,7 +168,7 @@
         "peso": "50 kg",
         "tecnica": "Huevo Lanzado",
         "imagen": "https://www.pngmart.com/files/13/Super-Mario-Bros-Birdo-PNG-Photos.png",
-        "PrimeraAparicion": "Super Mario Bros. 2 (1988)"
+        "Debut": "Super Mario Bros. 2 (1988)"
     },
     {
         "nombre": "King Boo",
@@ -177,7 +177,7 @@
         "peso": "80 kg",
         "tecnica": "Rayo Fantasma",
         "imagen": "https://www.pngmart.com/files/13/Super-Mario-Bros-King-Boo-Transparent-PNG.png",
-        "PrimeraAparicion": "Luigi's Mansion (2001)"
+        "Debut": "Luigi's Mansion (2001)"
     },
     {
         "nombre": "Baby Mario",
@@ -186,7 +186,7 @@
         "peso": "15 kg",
         "tecnica": "Mini Salto",
         "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e738c17-7f3c-422e-8225-f8c782b08626/df2imla-ca40a580-a708-4898-9350-feb5e4ac665a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBlNzM4YzE3LTdmM2MtNDIyZS04MjI1LWY4Yzc4MmIwODYyNlwvZGYyaW1sYS1jYTQwYTU4MC1hNzA4LTQ4OTgtOTM1MC1mZWI1ZTRhYzY2NWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zU9FX7KfkORUWQoW1fMcaFfw9ix-Gt3uYWWcKKHLwD0",
-        "PrimeraAparicion": "Super Mario World 2: Yoshi's Island (1995)"
+        "Debut": "Super Mario World 2: Yoshi's Island (1995)"
     },
     {
         "nombre": "Baby Luigi",
@@ -195,7 +195,7 @@
         "peso": "16 kg",
         "tecnica": "Mini Flotación",
         "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e738c17-7f3c-422e-8225-f8c782b08626/df2impa-f81359ed-eab0-42e0-a604-6371b7946d5a.png/v1/fill/w_894,h_894/baby_luigi_render_by_nibroc_rock_df2impa-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk5IiwicGF0aCI6IlwvZlwvMGU3MzhjMTctN2YzYy00MjJlLTgyMjUtZjhjNzgyYjA4NjI2XC9kZjJpbXBhLWY4MTM1OWVkLWVhYjAtNDJlMC1hNjA0LTYzNzFiNzk0NmQ1YS5wbmciLCJ3aWR0aCI6Ijw9ODk5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ZZmRmz4EjwJGezPS8tT11T_NIExWc4oes9zVBGL9FIE",
-        "PrimeraAparicion": "Super Mario World 2: Yoshi's Island (1995)"
+        "Debut": "Super Mario World 2: Yoshi's Island (1995)"
     },
     {
         "nombre": "Baby Peach",
@@ -204,7 +204,7 @@
         "peso": "14 kg",
         "tecnica": "Mini Flotar con Vestido",
         "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e738c17-7f3c-422e-8225-f8c782b08626/df2impg-a9e0ecf1-518b-4fd2-b3d7-ff4c9449ff7e.png/v1/fill/w_894,h_894/baby_peach_render_by_nibroc_rock_df2impg-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk5IiwicGF0aCI6IlwvZlwvMGU3MzhjMTctN2YzYy00MjJlLTgyMjUtZjhjNzgyYjA4NjI2XC9kZjJpbXBnLWE5ZTBlY2YxLTUxOGItNGZkMi1iM2Q3LWZmNGM5NDQ5ZmY3ZS5wbmciLCJ3aWR0aCI6Ijw9ODk5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fT1wbiJ3JLyXW0qCTjAqxG4hUcCrfR2URR8qyeCJBx4",
-        "PrimeraAparicion": "Mario & Luigi: Partners in Time (2005)"
+        "Debut": "Mario & Luigi: Partners in Time (2005)"
     },
     {
         "nombre": "Baby Daisy",
@@ -213,7 +213,7 @@
         "peso": "15 kg",
         "tecnica": "Mini Golpe de Flor",
         "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e738c17-7f3c-422e-8225-f8c782b08626/df2impp-d52cf826-d69d-4b54-9f30-1074cf357d8e.png/v1/fill/w_894,h_894/baby_daisy_render_by_nibroc_rock_df2impp-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk5IiwicGF0aCI6IlwvZlwvMGU3MzhjMTctN2YzYy00MjJlLTgyMjUtZjhjNzgyYjA4NjI2XC9kZjJpbXBwLWQ1MmNmODI2LWQ2OWQtNGI1NC05ZjMwLTEwNzRjZjM1N2Q4ZS5wbmciLCJ3aWR0aCI6Ijw9ODk5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.L1UYkaqybDzMnl_Pe6VUmTddZCjUQW0FuE1fDYozvXs",
-        "PrimeraAparicion": "Mario Kart Wii (2008)"
+        "Debut": "Mario Kart Wii (2008)"
     },
     {
         "nombre": "Petey Piraña",
@@ -222,7 +222,7 @@
         "peso": "150 kg",
         "tecnica": "Mordisco Devastador",
         "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e738c17-7f3c-422e-8225-f8c782b08626/df2r1eu-82586299-639f-44d1-9e6a-4811975e8e63.png/v1/fill/w_894,h_894/petey_piranha_render_by_nibroc_rock_df2r1eu-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk5IiwicGF0aCI6IlwvZlwvMGU3MzhjMTctN2YzYy00MjJlLTgyMjUtZjhjNzgyYjA4NjI2XC9kZjJyMWV1LTgyNTg2Mjk5LTYzOWYtNDRkMS05ZTZhLTQ4MTE5NzVlOGU2My5wbmciLCJ3aWR0aCI6Ijw9ODk5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.yTGn3_tXieQ8SEP1VGYSaKdVHx61ELZshzWiq6n5W2s",
-        "PrimeraAparicion": "Super Mario Sunshine (2002)"
+        "Debut": "Super Mario Sunshine (2002)"
     },
     {
         "nombre": "Kamek",
@@ -231,7 +231,7 @@
         "peso": "70 kg",
         "tecnica": "Magia Oscura",
         "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e738c17-7f3c-422e-8225-f8c782b08626/df1ennm-a9cb2b21-4208-46f2-9863-330efc6ad5fc.png/v1/fill/w_894,h_894/kamek_render_by_nibroc_rock_df1ennm-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk5IiwicGF0aCI6IlwvZlwvMGU3MzhjMTctN2YzYy00MjJlLTgyMjUtZjhjNzgyYjA4NjI2XC9kZjFlbm5tLWE5Y2IyYjIxLTQyMDgtNDZmMi05ODYzLTMzMGVmYzZhZDVmYy5wbmciLCJ3aWR0aCI6Ijw9ODk5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fg87JFWb8IqMuIh6CCpVirQuojuvBMDSvlIVdYyi5sI",
-        "PrimeraAparicion": "Super Mario World 2: Yoshi's Island (1995)"
+        "Debut": "Super Mario World 2: Yoshi's Island (1995)"
     },
     {
         "nombre": "Maestro Kinopo",
@@ -240,7 +240,7 @@
         "peso": "80 kg",
         "tecnica": "Golpe de Bastón",
         "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e738c17-7f3c-422e-8225-f8c782b08626/deet9z6-4d1f60ac-3e58-44f1-85ee-77f035a38e98.png/v1/fill/w_1074,h_744/toadsworth_test_render_by_nibroc_rock_deet9z6-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ3NSIsInBhdGgiOiJcL2ZcLzBlNzM4YzE3LTdmM2MtNDIyZS04MjI1LWY4Yzc4MmIwODYyNlwvZGVldDl6Ni00ZDFmNjBhYy0zZTU4LTQ0ZjEtODVlZS03N2YwMzVhMzhlOTgucG5nIiwid2lkdGgiOiI8PTIxMzAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.MOYjLUIhFZ1_Skj6KRob-GKB0IQHB0K-K3oEZ0An-DI",
-        "PrimeraAparicion": "Paper Mario: The Thousand-Year Door (2004)"
+        "Debut": "Paper Mario: The Thousand-Year Door (2004)"
     },
     {
         "nombre": "Metal Mario",
@@ -249,7 +249,7 @@
         "peso": "100 kg",
         "tecnica": "Cuerpo Metálico",
         "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e738c17-7f3c-422e-8225-f8c782b08626/deg7wss-495033cf-6a44-4322-8747-89b7aad6ca8a.png/v1/fill/w_894,h_894/metal_mario_second_render_sm64_alt_by_nibroc_rock_deg7wss-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk5IiwicGF0aCI6IlwvZlwvMGU3MzhjMTctN2YzYy00MjJlLTgyMjUtZjhjNzgyYjA4NjI2XC9kZWc3d3NzLTQ5NTAzM2NmLTZhNDQtNDMyMi04NzQ3LTg5YjdhYWQ2Y2E4YS5wbmciLCJ3aWR0aCI6Ijw9ODk5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.YAnhsvekfeGXmD8fpa1h-YmcSjkMYsvNz4FfI4nk19k",
-        "PrimeraAparicion": "Super Mario 64 (1996)"
+        "Debut": "Super Mario 64 (1996)"
     },
     {
         "nombre": "Dixie Kong",
@@ -258,7 +258,7 @@
         "peso": "40 kg",
         "tecnica": "Giro de Cabello",
         "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e738c17-7f3c-422e-8225-f8c782b08626/df1enns-b2193f23-ca9f-4d49-9593-468d1342ea49.png/v1/fill/w_894,h_894/dixie_kong_render_by_nibroc_rock_df1enns-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk5IiwicGF0aCI6IlwvZlwvMGU3MzhjMTctN2YzYy00MjJlLTgyMjUtZjhjNzgyYjA4NjI2XC9kZjFlbm5zLWIyMTkzZjIzLWNhOWYtNGQ0OS05NTkzLTQ2OGQxMzQyZWE0OS5wbmciLCJ3aWR0aCI6Ijw9ODk5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.El_JMAtkN7zk_CNOPdfW5m3wkZKyyrkWP_X1qCflTNs",
-        "PrimeraAparicion": "Donkey Kong Country 2: Diddy's Kong Quest (1995)"
+        "Debut": "Donkey Kong Country 2: Diddy's Kong Quest (1995)"
     },
     {
         "nombre": "Pauline",
@@ -267,6 +267,6 @@
         "peso": "60 kg",
         "tecnica": "Canto Inspirador",
         "imagen": "https://www.pngmart.com/files/13/Pauline-PNG-Free-Download.png",
-        "PrimeraAparicion": "Donkey Kong (1981)"
+        "Debut": "Donkey Kong (1981)"
     }
 ]
