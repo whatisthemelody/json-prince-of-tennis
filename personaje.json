@@ -6,7 +6,7 @@
         "peso": "64 kg",
         "tecnica": "Super Salto",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/mario.png?raw=true",
-        "estiloJ": "All-rounder"
+        "PrimeraAparicion": "Donkey Kong (1981)"
     },
     {
         "nombre": "Luigi",
@@ -15,7 +15,7 @@
         "peso": "60 kg",
         "tecnica": "Salto Flotante",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/luigi.png?raw=true",
-        "estiloJ": "Velocidad"
+        "PrimeraAparicion": "Mario Bros. (1983)"
     },
     {
         "nombre": "Peach",
@@ -24,7 +24,7 @@
         "peso": "58 kg",
         "tecnica": "Flotar con Vestido",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/peach.png?raw=true",
-        "estiloJ": "Controlador"
+        "PrimeraAparicion": "Super Mario Bros. (1985)"
     },
     {
         "nombre": "Bowser",
@@ -33,7 +33,7 @@
         "peso": "300 kg",
         "tecnica": "Aliento de Fuego",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/bowser.png?raw=true",
-        "estiloJ": "Potencia"
+        "PrimeraAparicion": "Super Mario Bros. (1985)"
     },
     {
         "nombre": "Yoshi",
@@ -42,7 +42,7 @@
         "peso": "59 kg",
         "tecnica": "Lengüetazo",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/yoshi.png?raw=true",
-        "estiloJ": "Velocidad y agilidad"
+        "PrimeraAparicion": "Super Mario World (1990)"
     },
     {
         "nombre": "Toad",
@@ -51,7 +51,7 @@
         "peso": "20 kg",
         "tecnica": "Carrera Rápida",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/toad.png?raw=true",
-        "estiloJ": "Velocidad"
+        "PrimeraAparicion": "Super Mario Bros. (1985)"
     },
     {
         "nombre": "Daisy",
@@ -60,7 +60,7 @@
         "peso": "55 kg",
         "tecnica": "Golpe de Flor",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/daisy.png?raw=true",
-        "estiloJ": "Contraataque"
+        "PrimeraAparicion": "Super Mario Land (1989)"
     },
     {
         "nombre": "Wario",
@@ -69,7 +69,7 @@
         "peso": "140 kg",
         "tecnica": "Carga Pesada",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/wario.png?raw=true",
-        "estiloJ": "Potencia"
+        "PrimeraAparicion": "Super Mario Land 2: 6 Golden Coins (1992)"
     },
     {
         "nombre": "Waluigi",
@@ -78,7 +78,7 @@
         "peso": "70 kg",
         "tecnica": "Golpe Engañoso",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/waluigi.png?raw=true",
-        "estiloJ": "Engaño"
+        "PrimeraAparicion": "Mario Tennis (2000)"
     },
     {
         "nombre": "Donkey Kong",
@@ -87,7 +87,7 @@
         "peso": "200 kg",
         "tecnica": "Golpe de Barril",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/donkeykong.png?raw=true",
-        "estiloJ": "Potencia"
+        "PrimeraAparicion": "Donkey Kong (1981)"
     },
     {
         "nombre": "Diddy Kong",
@@ -96,7 +96,7 @@
         "peso": "35 kg",
         "tecnica": "Salto Acrobático",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/diddy.png?raw=true",
-        "estiloJ": "Acrobático"
+        "PrimeraAparicion": "Donkey Kong Country (1994)"
     },
     {
         "nombre": "Rosalina",
@@ -105,7 +105,7 @@
         "peso": "57 kg",
         "tecnica": "Poder Estelar",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/rosalina.png?raw=true",
-        "estiloJ": "Controlador"
+        "PrimeraAparicion": "Super Mario Galaxy (2007)"
     },
     {
         "nombre": "Bowser Jr.",
@@ -114,7 +114,7 @@
         "peso": "40 kg",
         "tecnica": "Pincel Mágico",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/bowserjr.png?raw=true",
-        "estiloJ": "Estratégico"
+        "PrimeraAparicion": "Super Mario Sunshine (2002)"
     },
     {
         "nombre": "Toadette",
@@ -123,7 +123,7 @@
         "peso": "18 kg",
         "tecnica": "Carrera Veloz",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/toadette.png?raw=true",
-        "estiloJ": "Velocidad"
+        "PrimeraAparicion": "Mario Kart: Double Dash!! (2003)"
     },
     {
         "nombre": "Koopa Troopa",
@@ -132,7 +132,7 @@
         "peso": "25 kg",
         "tecnica": "Caparazón Giratorio",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/koopa.png?raw=true",
-        "estiloJ": "Velocidad"
+        "PrimeraAparicion": "Super Mario Bros. (1985)"
     },
     {
         "nombre": "Boo",
@@ -141,7 +141,7 @@
         "peso": "10 kg",
         "tecnica": "Invisibilidad",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/boo.png?raw=true",
-        "estiloJ": "Engaño"
+        "PrimeraAparicion": "Super Mario Bros. 3 (1988)"
     },
     {
         "nombre": "Dry Bones",
@@ -150,7 +150,7 @@
         "peso": "15 kg",
         "tecnica": "Reconstrucción Ósea",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/drybones.png?raw=true",
-        "estiloJ": "Resistencia"
+        "PrimeraAparicion": "Super Mario Bros. 3 (1988)"
     },
     {
         "nombre": "Shy Guy",
@@ -159,7 +159,7 @@
         "peso": "30 kg",
         "tecnica": "Ataque Sorpresa",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/shyguy.png?raw=true",
-        "estiloJ": "Estratégico"
+        "PrimeraAparicion": "Super Mario Bros. 2 (1988)"
     },
     {
         "nombre": "Birdo",
@@ -168,7 +168,7 @@
         "peso": "50 kg",
         "tecnica": "Huevo Lanzado",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/birdo.png?raw=true",
-        "estiloJ": "Contraataque"
+        "PrimeraAparicion": "Super Mario Bros. 2 (1988)"
     },
     {
         "nombre": "King Boo",
@@ -177,6 +177,6 @@
         "peso": "80 kg",
         "tecnica": "Rayo Fantasma",
         "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/kingboo.png?raw=true",
-        "estiloJ": "Control mental"
+        "PrimeraAparicion": "Luigi's Mansion (2001)"
     }
 ]
