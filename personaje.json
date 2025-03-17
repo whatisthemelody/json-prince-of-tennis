@@ -140,12 +140,12 @@
         "altura": "120 cm",
         "peso": "10 kg",
         "tecnica": "Invisibilidad",
-        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/boo.png?raw=true",
+        "imagen": "https://static.wikia.nocookie.net/mario/images/6/60/Boo%28MarioPartySuperstars%29.png/revision/latest/scale-to-width-down/1000?cb=20211208210114&path-prefix=es",
         "PrimeraAparicion": "Super Mario Bros. 3 (1988)"
     },
     {
         "nombre": "Dry Bones",
-        "equipo": "Reino Koopa",
+        "equipo": "https://static.wikia.nocookie.net/hello-yoshi/images/a/a1/250px-MPSR_Dry_Bones.png/revision/latest/scale-to-width-down/1000?cb=20190228195242",
         "altura": "100 cm",
         "peso": "15 kg",
         "tecnica": "Reconstrucción Ósea",
