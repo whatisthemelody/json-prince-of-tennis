@@ -1,263 +1,182 @@
 [
     {
-      "nombre": "Ryoma Echizen",
-      "equipo": "Seishun Gakuen (Seigaku)",
-      "altura": "151 cm",
-      "peso": "46 kg",
-      "tecnica": "Twist Serve",
-      "imagen": "https://e7.pngegg.com/pngimages/347/239/png-clipart-the-prince-of-tennis-sport-animation-tennis-sport-sports-equipment.png",
-      "estiloJ": "All-rounder"
+        "nombre": "Mario",
+        "equipo": "Reino Champiñón",
+        "altura": "155 cm",
+        "peso": "64 kg",
+        "tecnica": "Super Salto",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/mario.png?raw=true",
+        "estiloJ": "All-rounder"
     },
     {
-      "nombre": "Kunimitsu Tezuka",
-      "equipo": "Seishun Gakuen (Seigaku)",
-      "altura": "179 cm",
-      "peso": "58 kg",
-      "tecnica": "Tezuka Zone",
-      "imagen": "https://example.com/tezuka.jpg",
-      "estiloJ": "Controlador"
+        "nombre": "Luigi",
+        "equipo": "Reino Champiñón",
+        "altura": "175 cm",
+        "peso": "60 kg",
+        "tecnica": "Salto Flotante",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/luigi.png?raw=true",
+        "estiloJ": "Velocidad"
     },
     {
-      "nombre": "Shuusuke Fuji",
-      "equipo": "Seishun Gakuen (Seigaku)",
-      "altura": "167 cm",
-      "peso": "53 kg",
-      "tecnica": "Tsubame Gaeshi",
-      "imagen": "https://example.com/fuji.jpg",
-      "estiloJ": "Contraataque"
+        "nombre": "Peach",
+        "equipo": "Reino Champiñón",
+        "altura": "173 cm",
+        "peso": "58 kg",
+        "tecnica": "Flotar con Vestido",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/peach.png?raw=true",
+        "estiloJ": "Controlador"
     },
     {
-      "nombre": "Sadaharu Inui",
-      "equipo": "Seishun Gakuen (Seigaku)",
-      "altura": "188 cm",
-      "peso": "82 kg",
-      "tecnica": "Data Tennis",
-      "imagen": "https://example.com/inui.jpg",
-      "estiloJ": "Estratégico"
+        "nombre": "Bowser",
+        "equipo": "Reino Koopa",
+        "altura": "260 cm",
+        "peso": "300 kg",
+        "tecnica": "Aliento de Fuego",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/bowser.png?raw=true",
+        "estiloJ": "Potencia"
     },
     {
-      "nombre": "Eiji Kikumaru",
-      "equipo": "Seishun Gakuen (Seigaku)",
-      "altura": "171 cm",
-      "peso": "52 kg",
-      "tecnica": "Acrobatic Play",
-      "imagen": "https://example.com/kikumaru.jpg",
-      "estiloJ": "Velocidad"
+        "nombre": "Yoshi",
+        "equipo": "Isla Yoshi",
+        "altura": "160 cm",
+        "peso": "59 kg",
+        "tecnica": "Lengüetazo",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/yoshi.png?raw=true",
+        "estiloJ": "Velocidad y agilidad"
     },
     {
-      "nombre": "Takashi Kawamura",
-      "equipo": "Seishun Gakuen (Seigaku)",
-      "altura": "180 cm",
-      "peso": "67 kg",
-      "tecnica": "Burning Tennis",
-      "imagen": "https://example.com/kawamura.jpg",
-      "estiloJ": "Potencia"
+        "nombre": "Toad",
+        "equipo": "Reino Champiñón",
+        "altura": "80 cm",
+        "peso": "20 kg",
+        "tecnica": "Carrera Rápida",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/toad.png?raw=true",
+        "estiloJ": "Velocidad"
     },
     {
-      "nombre": "Syuichiro Oishi",
-      "equipo": "Seishun Gakuen (Seigaku)",
-      "altura": "175 cm",
-      "peso": "55 kg",
-      "tecnica": "Moon Volley",
-      "imagen": "https://example.com/oishi.jpg",
-      "estiloJ": "Dobles (especialista)"
+        "nombre": "Daisy",
+        "equipo": "Reino Sarasaland",
+        "altura": "170 cm",
+        "peso": "55 kg",
+        "tecnica": "Golpe de Flor",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/daisy.png?raw=true",
+        "estiloJ": "Contraataque"
     },
     {
-      "nombre": "Kaoru Kaidoh",
-      "equipo": "Seishun Gakuen (Seigaku)",
-      "altura": "170 cm",
-      "peso": "54 kg",
-      "tecnica": "Boomerang Snake",
-      "imagen": "https://example.com/kaidoh.jpg",
-      "estiloJ": "Velocidad y resistencia"
+        "nombre": "Wario",
+        "equipo": "WarioWare Inc.",
+        "altura": "155 cm",
+        "peso": "140 kg",
+        "tecnica": "Carga Pesada",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/wario.png?raw=true",
+        "estiloJ": "Potencia"
     },
     {
-      "nombre": "Takeshi Momoshiro",
-      "equipo": "Seishun Gakuen (Seigaku)",
-      "altura": "170 cm",
-      "peso": "58 kg",
-      "tecnica": "Dunk Smash",
-      "imagen": "https://example.com/momoshiro.jpg",
-      "estiloJ": "Potencia"
+        "nombre": "Waluigi",
+        "equipo": "WarioWare Inc.",
+        "altura": "185 cm",
+        "peso": "70 kg",
+        "tecnica": "Golpe Engañoso",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/waluigi.png?raw=true",
+        "estiloJ": "Engaño"
     },
     {
-      "nombre": "Atobe Keigo",
-      "equipo": "Hyotei Academy",
-      "altura": "175 cm",
-      "peso": "62 kg",
-      "tecnica": "World of Ice",
-      "imagen": "https://example.com/atobe.jpg",
-      "estiloJ": "Controlador"
+        "nombre": "Donkey Kong",
+        "equipo": "Isla DK",
+        "altura": "230 cm",
+        "peso": "200 kg",
+        "tecnica": "Golpe de Barril",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/donkeykong.png?raw=true",
+        "estiloJ": "Potencia"
     },
     {
-      "nombre": "Oshitari Yuushi",
-      "equipo": "Hyotei Academy",
-      "altura": "178 cm",
-      "peso": "64 kg",
-      "tecnica": "Illusion",
-      "imagen": "https://example.com/oshitari.jpg",
-      "estiloJ": "Estratégico"
+        "nombre": "Diddy Kong",
+        "equipo": "Isla DK",
+        "altura": "100 cm",
+        "peso": "35 kg",
+        "tecnica": "Salto Acrobático",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/diddykong.png?raw=true",
+        "estiloJ": "Acrobático"
     },
     {
-      "nombre": "Mukahi Gakuto",
-      "equipo": "Hyotei Academy",
-      "altura": "160 cm",
-      "peso": "50 kg",
-      "tecnica": "Tightrope Walking",
-      "imagen": "https://example.com/gakuto.jpg",
-      "estiloJ": "Acrobático"
+        "nombre": "Rosalina",
+        "equipo": "Observatorio Cometa",
+        "altura": "180 cm",
+        "peso": "57 kg",
+        "tecnica": "Poder Estelar",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/rosalina.png?raw=true",
+        "estiloJ": "Controlador"
     },
     {
-      "nombre": "Kabaji Munehiro",
-      "equipo": "Hyotei Academy",
-      "altura": "192 cm",
-      "peso": "85 kg",
-      "tecnica": "Copy",
-      "imagen": "https://example.com/kabaji.jpg",
-      "estiloJ": "Imitación"
+        "nombre": "Bowser Jr.",
+        "equipo": "Reino Koopa",
+        "altura": "120 cm",
+        "peso": "40 kg",
+        "tecnica": "Pincel Mágico",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/bowserjr.png?raw=true",
+        "estiloJ": "Estratégico"
     },
     {
-      "nombre": "Sanada Genichirou",
-      "equipo": "Rikkaidai Fuzoku",
-      "altura": "180 cm",
-      "peso": "68 kg",
-      "tecnica": "Rai (Thunder)",
-      "imagen": "https://example.com/sanada.jpg",
-      "estiloJ": "Potencia y control"
+        "nombre": "Toadette",
+        "equipo": "Reino Champiñón",
+        "altura": "75 cm",
+        "peso": "18 kg",
+        "tecnica": "Carrera Veloz",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/toadette.png?raw=true",
+        "estiloJ": "Velocidad"
     },
     {
-      "nombre": "Yukimura Seiichi",
-      "equipo": "Rikkaidai Fuzoku",
-      "altura": "175 cm",
-      "peso": "61 kg",
-      "tecnica": "Yips",
-      "imagen": "https://example.com/yukimura.jpg",
-      "estiloJ": "Control mental"
+        "nombre": "Koopa Troopa",
+        "equipo": "Reino Koopa",
+        "altura": "90 cm",
+        "peso": "25 kg",
+        "tecnica": "Caparazón Giratorio",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/koopatroopa.png?raw=true",
+        "estiloJ": "Velocidad"
     },
     {
-      "nombre": "Kirihara Akaya",
-      "equipo": "Rikkaidai Fuzoku",
-      "altura": "168 cm",
-      "peso": "57 kg",
-      "tecnica": "Devil Mode",
-      "imagen": "https://example.com/kirihara.jpg",
-      "estiloJ": "Agresivo"
+        "nombre": "Boo",
+        "equipo": "Mansión Boo",
+        "altura": "120 cm",
+        "peso": "10 kg",
+        "tecnica": "Invisibilidad",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/boo.png?raw=true",
+        "estiloJ": "Engaño"
     },
     {
-      "nombre": "Niou Masaharu",
-      "equipo": "Rikkaidai Fuzoku",
-      "altura": "175 cm",
-      "peso": "62 kg",
-      "tecnica": "Illusion",
-      "imagen": "https://example.com/niou.jpg",
-      "estiloJ": "Engaño"
+        "nombre": "Dry Bones",
+        "equipo": "Reino Koopa",
+        "altura": "100 cm",
+        "peso": "15 kg",
+        "tecnica": "Reconstrucción Ósea",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/drybones.png?raw=true",
+        "estiloJ": "Resistencia"
     },
     {
-      "nombre": "Yagyuu Hiroshi",
-      "equipo": "Rikkaidai Fuzoku",
-      "altura": "178 cm",
-      "peso": "64 kg",
-      "tecnica": "Laser Beam",
-      "imagen": "https://example.com/yagyuu.jpg",
-      "estiloJ": "Precisión"
+        "nombre": "Shy Guy",
+        "equipo": "Reino de los Champiñones",
+        "altura": "110 cm",
+        "peso": "30 kg",
+        "tecnica": "Ataque Sorpresa",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/shyguy.png?raw=true",
+        "estiloJ": "Estratégico"
     },
     {
-      "nombre": "Shiraishi Kuranosuke",
-      "equipo": "Shitenhouji",
-      "altura": "179 cm",
-      "peso": "67 kg",
-      "tecnica": "Perfect Tennis",
-      "imagen": "https://example.com/shiraishi.jpg",
-      "estiloJ": "All-rounder"
+        "nombre": "Birdo",
+        "equipo": "Reino de los Champiñones",
+        "altura": "150 cm",
+        "peso": "50 kg",
+        "tecnica": "Huevo Lanzado",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/birdo.png?raw=true",
+        "estiloJ": "Contraataque"
     },
     {
-      "nombre": "Kintarou Tooyama",
-      "equipo": "Shitenhouji",
-      "altura": "150 cm",
-      "peso": "45 kg",
-      "tecnica": "Super Shukuchihou",
-      "imagen": "https://example.com/kintarou.jpg",
-      "estiloJ": "Velocidad y potencia"
-    },
-    {
-      "nombre": "Chitose Senri",
-      "equipo": "Shitenhouji",
-      "altura": "180 cm",
-      "peso": "65 kg",
-      "tecnica": "Hoshi Hanabi",
-      "imagen": "https://example.com/chitose.jpg",
-      "estiloJ": "Estratégico"
-    },
-    {
-      "nombre": "Tachibana Kippei",
-      "equipo": "Fudomine",
-      "altura": "182 cm",
-      "peso": "72 kg",
-      "tecnica": "Abare Dama",
-      "imagen": "https://example.com/tachibana.jpg",
-      "estiloJ": "Potencia"
-    },
-    {
-      "nombre": "Ibu Shinji",
-      "equipo": "Fudomine",
-      "altura": "165 cm",
-      "peso": "55 kg",
-      "tecnica": "Quick Serve",
-      "imagen": "https://example.com/ibu.jpg",
-      "estiloJ": "Velocidad"
-    },
-    {
-      "nombre": "Akutsu Jin",
-      "equipo": "Yamabuki",
-      "altura": "185 cm",
-      "peso": "75 kg",
-      "tecnica": "Wild Tennis",
-      "imagen": "https://example.com/akutsu.jpg",
-      "estiloJ": "Agresivo"
-    },
-    {
-      "nombre": "Minami Kentarou",
-      "equipo": "Yamabuki",
-      "altura": "170 cm",
-      "peso": "60 kg",
-      "tecnica": "Data Tennis",
-      "imagen": "https://example.com/minami.jpg",
-      "estiloJ": "Estratégico"
-    },
-    {
-      "nombre": "Hiyoshi Wakashi",
-      "equipo": "Hyotei Academy",
-      "altura": "172 cm",
-      "peso": "56 kg",
-      "tecnica": "Bishop Step",
-      "imagen": "https://example.com/hiyoshi.jpg",
-      "estiloJ": "Velocidad"
-    },
-    {
-      "nombre": "Shishido Ryou",
-      "equipo": "Hyotei Academy",
-      "altura": "174 cm",
-      "peso": "60 kg",
-      "tecnica": "Wild Ball",
-      "imagen": "https://example.com/shishido.jpg",
-      "estiloJ": "Agresivo"
-    },
-    {
-      "nombre": "Jirou Akutagawa",
-      "equipo": "Hyotei Academy",
-      "altura": "160 cm",
-      "peso": "52 kg",
-      "tecnica": "Sleeping Mode",
-      "imagen": "https://example.com/jirou.jpg",
-      "estiloJ": "Impredecible"
-    },
-    {
-      "nombre": "Zaizen Hikaru",
-      "equipo": "Higa Chuu",
-      "altura": "168 cm",
-      "peso": "58 kg",
-      "tecnica": "Hadoukyuu",
-      "imagen": "https://example.com/zaizen.jpg",
-      "estiloJ": "Potencia"
+        "nombre": "King Boo",
+        "equipo": "Mansión Boo",
+        "altura": "200 cm",
+        "peso": "80 kg",
+        "tecnica": "Rayo Fantasma",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/kingboo.png?raw=true",
+        "estiloJ": "Control mental"
     }
 ]
