@@ -143,6 +143,15 @@
         "imagen": "https://mario.nintendo.com/static/07969e5525c53ae6c17bd8c2661c459d/3d2f6/boo.png",
         "PrimeraAparicion": "Super Mario Bros. 3 (1988)"
     },
+    {
+        "nombre": "Dry Bones",
+        "equipo": "Reino Koopa",
+        "altura": "100 cm",
+        "peso": "15 kg",
+        "tecnica": "Reconstrucción Ósea",
+        "imagen": "https://github.com/djneill/Simple-Mario-Character-API/blob/main/images/drybones.png?raw=true",
+        "estiloJ": "Resistencia"
+    },
  
     {
         "nombre": "Shy Guy",
